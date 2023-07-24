@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rednegoj12
+- 👋 Hi, I’m @jogenderSingh21
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C language
-- 📫 How to reach me E-mail : sehrawatjojo528@gmail.com
+- 📫 How to reach me E-mail : jojosehrawat21@gmail.com
 
 <!---
 rednegoj12/rednegoj12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
